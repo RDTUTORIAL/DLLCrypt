@@ -80,10 +80,6 @@ This technique may be detected by:
 
 This is an experimental project. If you have suggestions for improvements or find bugs, please open an issue or submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Thanks to the cybersecurity community for research on steganography techniques
